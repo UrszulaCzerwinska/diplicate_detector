@@ -1,0 +1,6 @@
+pytest>=3.6
+argparse
+imagehash
+Pillow>=7.1
+img2vec_pytorch
+torchvision
